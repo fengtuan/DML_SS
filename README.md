@@ -1,5 +1,6 @@
 
 # Deep Metric Learning for Accurate Protein Secondary Structure Prediction
+
 =
 
 **Abstract**
@@ -17,7 +18,7 @@ Baidu Netdisk:https://pan.baidu.com/s/1fwtekZH5zyodRj6WWPnWiA (Password: PSSP)
 
 
 > * The embedding feature data  
-Baidu:https://pan.baidu.com/s/1SMUOsSpsbJEEE99UbmuY5A (Password: PSSP)  
+Baidu Netdisk:https://pan.baidu.com/s/1SMUOsSpsbJEEE99UbmuY5A (Password: PSSP)  
 
 Please put the downloaded profile-based hybrid feature data files and embedding feature data files into the folders "data/hybrid" and "data/embedding" respectively. 
 
