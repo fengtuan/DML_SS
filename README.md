@@ -87,6 +87,6 @@ If you use our code in your study, please cite as:
 [1] Wei Yang,Yang Liu, and Chunjing Xiao, Deep Metric Learning for Accurate Protein Secondary Structure Prediction,Knowledge-based systems,2022
 
 ### 6. Contact
-For questions and comments, feel free to contact :yang0sun@gmail.com. 
+For questions and comments, feel free to contact : yang0sun@gmail.com. 
 
 
