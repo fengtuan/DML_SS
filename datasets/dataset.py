@@ -93,13 +93,13 @@ def Load_H5PY(FilePath,encodingType,isEightClass,dataset=None):
     Data=[]
     for i in idxs:
         ProteinID=f['ID'+str(i)][()]
-        ProteinID=ProteinID.decode()
+        #ProteinID=ProteinID.decode()
         PrimarySeq=f['PS'+str(i)][()]
-        PrimarySeq=PrimarySeq.decode()
+        #PrimarySeq=PrimarySeq.decode()
         ProteinLen=len(PrimarySeq)
         PrimarySeq=[AA_Dict[e] for e in PrimarySeq]
         SecondarySeq=f['SS'+str(i)][()]
-        SecondarySeq=SecondarySeq.decode()
+        #SecondarySeq=SecondarySeq.decode()
         if isEightClass:
             SecondarySeq=[SS8_Dict[e] for e in SecondarySeq]
         else:
@@ -247,13 +247,13 @@ def Load_H5PY_embedding(FilePath,isEightClass,dataset=None):
     Data=[]
     for i in idxs:
         ProteinID=f['ID'+str(i)][()]
-        ProteinID=ProteinID.decode()
+        #ProteinID=ProteinID.decode()
         PrimarySeq=f['PS'+str(i)][()]
-        PrimarySeq=PrimarySeq.decode()
+        #PrimarySeq=PrimarySeq.decode()
         ProteinLen=len(PrimarySeq)
         PrimarySeq=[AA_Dict[e] for e in PrimarySeq]
         SecondarySeq=f['SS'+str(i)][()]
-        SecondarySeq=SecondarySeq.decode()
+        #SecondarySeq=SecondarySeq.decode()
         if isEightClass:
             SecondarySeq=[SS8_Dict[e] for e in SecondarySeq]
         else:
