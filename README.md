@@ -1,7 +1,7 @@
 
 # Deep Metric Learning for Accurate Protein Secondary Structure Prediction
 
-=
+
 
 **Abstract**
 <br>
