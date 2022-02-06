@@ -27,6 +27,7 @@ Please put the downloaded profile-based hybrid feature data files and embedding 
 ### 2. Requirement
 > * Python >=3.8  
 > * Pytorch >=1.10
+
 The codes are tested under Ubuntu. 
 
 ### 3. Reproducibility
