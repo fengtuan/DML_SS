@@ -82,6 +82,7 @@ python train_embedding_2016_2018.py --num_channels 1024 --proj_dim 32 --depth 2 
 
 ### 5. Citation
 If you use our code in your study, please cite as:
+
 [1] Wei Yang,Yang Liu, and Chunjing Xiao, Deep Metric Learning for Accurate Protein Secondary Structure Prediction,Knowledge-based systems,2022
 
 ### 6. Contact
