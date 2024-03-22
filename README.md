@@ -13,14 +13,16 @@ Predicting the secondary structure of a protein from its amino acid sequence alo
 
 The six test sets(CASP12, CASP13, CASP14, CB513, TEST 2016, TEST 2018) and their corresponding training and validation sets can be downloaded from Baidu Netdisk:
 
-> * Profile-based hybrid feature data 
+> * Profile-based hybrid feature data(The features have been normalized.) 
 
 Baidu Netdisk:https://pan.baidu.com/s/1fwtekZH5zyodRj6WWPnWiA (Password: PSSP)  
 
 
 > * The embedding feature data 
  
-Baidu Netdisk:https://pan.baidu.com/s/1SMUOsSpsbJEEE99UbmuY5A (Password: PSSP)  
+Baidu Netdisk:https://pan.baidu.com/s/1SMUOsSpsbJEEE99UbmuY5A (Password: PSSP) 
+
+Google Drive:https://drive.google.com/drive/folders/198dP2UOgb68QuV242uXCEvBrUs2qwlny
 
 Please put the downloaded profile-based hybrid feature data files and embedding feature data files into the folders "data/hybrid" and "data/embedding" respectively. 
 
